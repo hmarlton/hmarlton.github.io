@@ -1,13 +1,14 @@
 # CIT 281 Code Portfolio
+<div style="float:center; width:auto; height:auto">
+![codeimage2.jpg](/images/codeimage2.jpg)
+</div>
 ## CIT Project List
-
-![codeimage2.png](images/codeimage2.png)
 
 * [CIS 105 Projects](https://www.dropbox.com/sh/b3xvelwxaw04gxd/AADrYergZ5dp9xbk-3Vlfi26a?dl=0) **DropBox**
 * [CIS 110 Projects](https://pages.uoregon.edu/hmarlton/110/) **uoregon.edu**
 * [CIS 111 Projects](https://pages.uoregon.edu/hmarlton/110/) **uoregon.edu**
 * [CIS 115 Projects](https://www.dropbox.com/sh/b3xvelwxaw04gxd/AADrYergZ5dp9xbk-3Vlfi26a?dl=0) **DropBox**
-* [CIT 281 Projects]
+* **CIT 281 Projects**
   * [Project 1 Page](https://github.com/UO-CIT/p1-hmarlton) **Github**
   * [Project 2 Page](https://github.com/UO-CIT/p2-hmarlton) **Github**
   * [Project 3 Page](https://github.com/UO-CIT/p3-hmarlton/tree/master) **Github**
