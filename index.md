@@ -1,7 +1,7 @@
 # CIT 281 Code Portfolio
-<div style="float:center; width:auto; height:auto">
-![codeimage2.jpg](/images/codeimage2.jpg)
-</div>
+
+![codeimage2.jpg](images/codeimage2.jpg)
+
 ## CIT Project List
 
 * [CIS 105 Projects](https://www.dropbox.com/sh/b3xvelwxaw04gxd/AADrYergZ5dp9xbk-3Vlfi26a?dl=0) **DropBox**
