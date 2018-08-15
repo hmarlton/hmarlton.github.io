@@ -1,7 +1,7 @@
 # CIT 281 Code Portfolio
 ## CIT Project List
 <div style="float:left">
-![codeimage2.png](images/codeimage.png)
+![codeimage2.png](images/codeimage2.png)
 </div>
 * [CIS 105 Projects](https://www.dropbox.com/sh/b3xvelwxaw04gxd/AADrYergZ5dp9xbk-3Vlfi26a?dl=0) **DropBox**
 * [CIS 110 Projects](https://pages.uoregon.edu/hmarlton/110/) **uoregon.edu**
